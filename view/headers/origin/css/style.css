@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body.has-fixed-bar{
+    padding-top: 70px;
+
+}
+#tutorialBox{
+    padding: 3%;
+    padding-bottom: 40px;
+    box-shadow: 1px 1px 20px 1px;
+
+}
+.logo{
+    height: 138px;width: 138px;
+}
+.text-center{
+    text-align: center;
+}
+form.form-horizontal div.col-md-12:not(.not-padding-as-normal){
+    padding: 3%;
+}
+.marginTop20{
+    margin-top: 20px;
+}
+.marginTop10{
+    margin-top: 10px;
+}
+.footer{
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+    left: 0;
+    height: 25px;
+    width: 100%;
+    font-size: 15px;
+}
